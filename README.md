@@ -1,16 +1,26 @@
-## Hi there 👋
+# Salwa Hamdaoui 👋
 
-<!--
-**hamdaoui03salwa-web/hamdaoui03salwa-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Élève ingénieure en Intelligence Artificielle et Cybersécurité** @ ENSA Béni Mellal (promo 2027)
 
-Here are some ideas to get you started:
+Passionnée par l'IA et la sécurité des systèmes d'information. Je cherche un **stage de PFE de 6 mois** (début février 2027).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+
+- **IA / Data :** apprentissage supervisé et non supervisé, NLP, vision par ordinateur, Spark
+- **Cybersécurité / Réseaux :** audit Linux, forensique, reverse proxy, VPN, pare-feu, TLS
+- **Développement / IoT :** Python, C, JavaScript, Node.js, Flask, MongoDB, SQLite
+
+## 🚀 Projets
+
+| Projet | Description |
+|---|---|
+| **AgriEdge** | Irrigation intelligente : Random Forest embarqué sur ESP32, MQTT/TLS, application mobile |
+| **Multi-Agent SOC** | Agents LLM (LangGraph/CrewAI, RAG) pour détection et investigation d'incidents |
+| **CrowdFund DAO** | dApp de financement participatif : smart contracts Solidity audités avec Slither |
+| **Sécurisation réseau (stage)** | Reverse proxy NGINX, VPN WireGuard, supervision et durcissement |
+
+> Les liens vers chaque dépôt seront ajoutés ici au fur et à mesure.
+
+## 📫 Me contacter
+
+hamdaoui03salwa@gmail.com
