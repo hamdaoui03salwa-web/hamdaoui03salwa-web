@@ -2,7 +2,7 @@
 
 **Élève ingénieure en Intelligence Artificielle et Cybersécurité** @ ENSA Béni Mellal (promo 2027)
 
-Passionnée par l'IA et la sécurité des systèmes d'information. Je cherche un **stage de PFE de 6 mois** (début février 2027).
+Passionnée par l'IA et la sécurité des systèmes d'information. Je cherche un **stage de PFE de 6 mois** (Janvier 2027).
 
 ## 🛠️ Compétences
 
